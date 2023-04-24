@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="ko">
 	<head>
@@ -6,7 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
 	<body>
-		<h1><a href="index.jsp">test</a></h1>
+		<h1>test</h1>
 		<h2>test</h2>
 		<h3>test</h3>
 		<h4>test</h4>
